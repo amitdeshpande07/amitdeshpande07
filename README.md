@@ -15,12 +15,12 @@
 ✅ Managed Financial ledgers, **cash flow**, and **reconciliations** for contracting projects using Excel  
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
-✅ Identified and resolved **claim discrepancies**  
-✅ Utilized Excel and proprietary software for financial data analysis
+✅ Identified and resolved claim discrepancies, leveraging Excel and proprietary software for insights!
+ 
 
 #### **📌 Equity Associate @ Imperial Money Pvt Ltd** *(Apr 2022 – Jun 2022)*
-✅ Conducted **daily trade reconciliation** in Excel  
-✅ Managed **portfolio strategies and trade execution**
+✅ Conducted daily trade **reconciliation** in Excel
+✅ Managed **portfolio management**, **stock strategy analysis**, **trade execution**
 
 ---
 
