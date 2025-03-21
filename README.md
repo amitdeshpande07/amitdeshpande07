@@ -11,7 +11,7 @@
 
 ### 💼 Work Experience
 
-#### **📌 Financial Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Jun 2024)*
+#### **📌 Finance Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Jun 2024)*
 ✅ Managed Financial ledgers, **cash flow**, and **reconciliations** for contracting projects using Excel  
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
