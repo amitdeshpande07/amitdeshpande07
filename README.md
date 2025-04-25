@@ -7,11 +7,11 @@
 
 ### 🔥 About Me
 
-- Hi! I'm a Finance professional from India. Skilled in Financial Modeling, Power BI 📊, Advanced Excel 📑, and Python 🐍, I specialize in turning complex financial data into strategic insights
+- Hi! I'm a Finance professional from India. Skilled in Financial Modeling, Power BI 📊, Advanced Excel 📑, and SAP FICO 💰, Oracle 🏛️, PostgreSQL 🐘 I specialize in turning complex financial data into strategic insights
 
 ### 💼 Work Experience
 
-#### **📌 Financial Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Jun 2024)*
+#### **📌 Finance Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Jun 2024)*
 ✅ Managed Financial ledgers, **cash flow**, and **reconciliations** for contracting projects using Excel  
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
