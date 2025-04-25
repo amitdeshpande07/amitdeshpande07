@@ -27,7 +27,7 @@
 ### 🚀 Skills & Tools
 
 🔹 **Finance & Accounting:** Budgeting, Forecasting, Financial Reporting  
-🔹 **Data Analytics:** Excel (Advanced), Power BI, Python  
+🔹 **Data Analytics:** Excel (Advanced), Power BI, SAP FICO, Oracle, PostgreSQL  
 🔹 **Financial Modeling & Investment Analysis**  
  
 
