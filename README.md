@@ -20,13 +20,17 @@
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
 ✅ Processed over 240 claims weekly, ensuring 95% compliance with regulatory standards, minimizing errors and supporting accurate financial data for analysis.
+
 ✅ Analyzed and resolved complex discrepancies within claims data, improving operational efficiency and strengthening stakeholder confidence.
+
 ✅ Leveraged Excel and proprietary software to generate data-driven reports, enhancing decision-making through detailed financial insights.
  
 
 #### **📌 Equity Associate @ Imperial Money Pvt Ltd** *(Apr 2022 – Jun 2022)*
 ✅ Analyzed and reconciled daily trade data, identifying and resolving discrepancies to ensure precise financial reporting and data integrity.
+
 ✅ Provided data-driven insights to advise 70+ clients on stock strategies, enhancing portfolio performance and supporting informed investment decisions.
+
 ✅ Executed and monitored 150+ weekly trades, maintaining operational efficiency and contributing to consistent profitability.
 
 ---
