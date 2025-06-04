@@ -13,7 +13,9 @@
 
 #### **📌 Finance Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Jun 2024)*
 ✅ Maintained and monitored financial ledgers, ensuring accuracy in accounts payable and receivable while adhering to internal financial controls.
+
 ✅ Collaboration with project managers to evaluate financial performance metrics, identify variances, and implement data-driven cost-reduction strategies to improve operational efficiency.
+
 ✅ Processed and reconciled high-volume invoices across 50+ client and vendor accounts, resolving discrepancies to support accurate financial reporting and sustain strong vendor relationships. 
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
