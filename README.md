@@ -15,7 +15,7 @@
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
 
-#### **📌 Inter Equity Associate @ Imperial Money Pvt Ltd** *(Apr 2022 – Jun 2022)*
+#### **📌 Intern Equity Associate @ Imperial Money Pvt Ltd** *(Apr 2022 – Jun 2022)*
 
 ---
 
