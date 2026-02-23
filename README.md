@@ -22,7 +22,7 @@
 ### 🚀 Skills & Tools
 
 🔹 **Finance & Accounting:** Budgeting, Forecasting, Financial Reporting, Financial Ratio Analysis, Investment Strategy
-🔹 **Data Analytics:** MS Word, MS Power Point, MS Excel (Advanced), Power BI, SAP FICO, Oracle SQL Developer, PostgreSQL  
+🔹 **Data Analytics:** MS Word, MS Power Point, MS Excel (Advanced), Power BI, Oracle SQL Developer, PostgreSQL  
 🔹 **Financial Modeling & Investment Analysis**  
  
 
