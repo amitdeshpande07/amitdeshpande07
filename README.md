@@ -11,7 +11,7 @@
 
 ### 💼 Work Experience
 
-#### **📌 Finance Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Oct 2024)*
+#### **📌 Finance Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Aug 2025)*
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
 
