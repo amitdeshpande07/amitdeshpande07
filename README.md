@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Amit Deshpande
 
-🔹 **Expertise Financial Analyst** | **Investment Banking**| 📊 **Advance Excel & Power BI** | 🏛️ **Oracle** | 🐘 **PostgreSQL** |🧾 **Tally ERP**
+🔹 **Expertise Financial Analyst** | **Investment Banking**| 📊 **Advance Excel & Power BI** | 🏛️ **Oracle** | 🐘 **PostgreSQL** |🧾 **Tally ERP** |
 🎓 **BBA in Finance** | Kamla Nehru Mahavidyalaya 
 
 ---
