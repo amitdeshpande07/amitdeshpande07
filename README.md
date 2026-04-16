@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Amit Deshpande
 
-🔹 **Expertise Financial Analyst** | **Investment Banking**| 📊 **Advance Excel & Power BI** | 🏛️ **Oracle** | 🐘 **PostgreSQL**
+🔹 **Expertise Financial Analyst** | **Investment Banking**| 📊 **Advance Excel & Power BI** | 🏛️ **Oracle** | 🐘 **PostgreSQL** |🧾 **Tally ERP**
 🎓 **BBA in Finance** | Kamla Nehru Mahavidyalaya 
 
 ---
@@ -11,7 +11,7 @@
 
 ### 💼 Work Experience
 
-#### **📌 Finance Executive @ M-Interio Pvt Ltd** *(Mar 2023 – Nov2025)*
+#### **📌 Finance Executive @ M-Interio** *(Mar 2023 – Nov 2025)*
 
 #### **📌 Executive @ Hexaware Technologies Ltd** *(Sep 2022 – Feb 2023)*
 
@@ -22,7 +22,7 @@
 ### 🚀 Skills & Tools
 
 🔹 **Finance & Accounting:** Budgeting, Forecasting, Financial Reporting, Financial Ratio Analysis, Investment Strategy
-🔹 **Data Analytics:** MS Word, MS Power Point, MS Excel (Advanced), Power BI, Oracle SQL Developer, PostgreSQL  
+🔹 **Data Analytics:** Tally ERP, MS Word, MS Power Point, MS Excel (Advanced), Power BI, Oracle SQL Developer, PostgreSQL  
 🔹 **Financial Modeling & Investment Analysis**  
  
 
