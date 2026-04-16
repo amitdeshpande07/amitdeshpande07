@@ -7,7 +7,7 @@
 
 ### 🔥 About Me
 
-- Hi! I'm a Finance professional from India. Skilled in Financial Modeling, Power BI 📊, Advanced Excel 📑, and Oracle 🏛️, PostgreSQL 🐘 I specialize in turning complex financial data into strategic insights
+- Hi! I'm a Finance professional from India. Skilled in Financial Modeling, Tally ERP 🧾, Power BI 📊, Advanced Excel 📑, and Oracle 🏛️, PostgreSQL 🐘 I specialize in turning complex financial data into strategic insights
 
 ### 💼 Work Experience
 
