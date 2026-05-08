@@ -1,13 +1,12 @@
 ## 👋 Hello, I'm Amit Deshpande
 
-🔹 **Expertise Financial Analyst** | **Investment Banking**| 📊 **Advance Excel & Power BI** | 🏛️ **Oracle** | 🐘 **PostgreSQL** |🧾 **Tally ERP** |
-🎓 **BBA in Finance** | Kamla Nehru Mahavidyalaya 
+🔹 **Expertise Financial Analyst** | **Investment Banking**| 📊 **Advance Excel & Power BI** | 🏛️ **Oracle ERP** | 🐘 **PostgreSQL** |🧾 **Tally ERP** | **SAP FICO (ERP)** 🏢|🎓 **BBA in Finance** | Kamla Nehru Mahavidyalaya 
 
 ---
 
 ### 🔥 About Me
 
-- Hi! I'm a Finance professional from India. Skilled in Financial Modeling, Tally ERP 🧾, Power BI 📊, Advanced Excel 📑, and Oracle 🏛️, PostgreSQL 🐘 I specialize in turning complex financial data into strategic insights
+- Hi! I'm a Finance professional from India. Skilled in Financial Modeling, Tally ERP 🧾, SAP FICO (ERP) 🏢, Power BI 📊, Advanced Excel 📑, and Oracle ERO 🏛️, PostgreSQL 🐘 I specialize in turning complex financial data into strategic insights
 
 ### 💼 Work Experience
 
@@ -22,7 +21,7 @@
 ### 🚀 Skills & Tools
 
 🔹 **Finance & Accounting:** Budgeting, Forecasting, Financial Reporting, Financial Ratio Analysis, Investment Strategy
-🔹 **Data Analytics:** Tally ERP, MS Word, MS Power Point, MS Excel (Advanced), Power BI, Oracle SQL Developer, PostgreSQL  
+🔹 **Data Analytics:** Tally ERP, MS Word, MS Power Point, MS Excel (Advanced), Power BI, Oracle ERP, PostgreSQL, SAP ERP  
 🔹 **Financial Modeling & Investment Analysis**  
  
 
